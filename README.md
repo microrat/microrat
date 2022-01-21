@@ -1,4 +1,4 @@
-WellCome to my GitHub profile
+![Profile views](https://gpvc.arturio.dev/[microrat])
 
 <!--
 **microrat/microrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
