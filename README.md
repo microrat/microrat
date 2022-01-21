@@ -1,4 +1,4 @@
-### WellCome to my GitHub profile
+WellCome to my GitHub profile
 
 <!--
 **microrat/microrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
