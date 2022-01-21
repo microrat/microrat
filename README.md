@@ -7,12 +7,7 @@
 
 </br>
 
-<a href="https://github.com/microrat/OOTPiSP-Java-Sem5-final-project">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=microrat&repo=OOTPiSP-Java-Sem5-final-project&theme=dracula&text_color=000000&bg_color=ffffff" />
-</a>
-<a href="https://github.com/microrat/iTechArt-Lab2021">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=microrat&repo=iTechArt-Lab2021&theme=dracula&text_color=000000&bg_color=ffffff" />
-</a>
+
 
 <!--
 **microrat/microrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
