@@ -1,5 +1,7 @@
-<h1>Hello</h1>
-<h2>hi</h2>
+<p>
+<h1 color="pink">Hello</h1>
+<h2>Wellcome to my GitHub</h2>
+</p>
 <!--
 **microrat/microrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
