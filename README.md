@@ -1,10 +1,8 @@
 
 # Hello
 ## :star2:Wellcome to my GitHub:star2:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-<a href="https://github.com/braydoncoyer">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microrat&hide=html&theme=buefy&icon_color=fc2847&layout=compact,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+![Microrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=microrat&theme=buefy&show_icons=true&icon_color=#fc0a32)
+
 
 
 <!--
