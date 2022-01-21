@@ -1,7 +1,7 @@
 
 # Hello
 ## :star2:Wellcome to my GitHub:star2:
-![Microrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=microrat&theme=buefy&show_icons=true&icon_color=#fc0a32)
+![Microrat's GitHub stats](https://github-readme-stats.vercel.app/api?username=microrat&theme=dracula&show_icons=true&text_color=#000000)
 
 
 
